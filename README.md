@@ -1,6 +1,3 @@
-#Spatial Gesture IoT
-
-
 ## 🌟 概念构思（Conceptual Inspiration）
 
 本项目旨在探索一套基于自然姿态与手势的智能空间交互控制方式，强调非侵入、低成本与趣味性。
